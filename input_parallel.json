@@ -1,0 +1,7 @@
+{
+  "mode": "parallel",
+  "segments_count": 10000,
+  "seed": 42,
+  "coordinate_limit": 100000
+}
+
